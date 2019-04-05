@@ -1,0 +1,1 @@
+$JAVA_HOME/bin/java pl.pc.Main
